@@ -1,0 +1,12 @@
+{
+  "name": "cloud-automation-express",
+  "version": "1.0.0",
+  "description": "Express app with Bootstrap 5 homepage",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
